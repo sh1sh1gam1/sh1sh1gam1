@@ -1,8 +1,7 @@
 ![hi_there_2_AdobeExpress](https://user-images.githubusercontent.com/121378168/209464323-409e12d7-e91c-4583-968c-e73571d738ec.gif)
 
 
-### Name 
-Issei Komeda
+##### Issei Komeda
 
 <!--
 **sh1sh1gam1/sh1sh1gam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
