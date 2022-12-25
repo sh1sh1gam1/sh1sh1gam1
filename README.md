@@ -1,6 +1,6 @@
 ### Hi there 👋 
+![hi_there_AdobeExpress](https://user-images.githubusercontent.com/121378168/209464144-abc3e855-5fd6-4bfc-9945-e0ee9bcc2044.gif)
 
-![hi_there](https://user-images.githubusercontent.com/121378168/209463511-78ae5b49-a683-41b2-a946-a70a20a0959b.gif)
 
 
 <!--
