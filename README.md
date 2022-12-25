@@ -10,7 +10,7 @@
 - 基本情報処理技術者 取得（令和4年 12月27日）
 # 学会発表
 - ICETC2021 poster session [Object Detection Scheme Switching for Improving Video Analysis Performance]
-- 情報処理学会 関西支部大会 
+- 情報処理学会 関西支部大会 2022 [9/18]
 # TOEIC
 - Listening & Reading 610 [2021/12/19]
 # 主な使用言語
