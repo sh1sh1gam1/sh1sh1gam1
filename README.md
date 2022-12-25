@@ -7,8 +7,10 @@
 - 近畿大学大学院 総合理工学研究科 エレクトロニクス系工学専攻
 # 保有資格
 - 普通自動車第一種運転免許 取得（令和1年 10月1日）
+- 基本情報処理技術者 取得（令和4年 12月27日）
 # 学会発表
 - ICETC2021 poster session [Object Detection Scheme Switching for Improving Video Analysis Performance]
+- 情報処理学会 関西支部大会 
 # TOEIC
 - Listening & Reading 610 [2021/12/19]
 # 主な使用言語
