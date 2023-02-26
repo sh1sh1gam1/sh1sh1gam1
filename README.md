@@ -17,7 +17,7 @@
 - Python（2年、研究で使用）
 - Java（3年）
 # 研究内容
-- 
+- 監視カメラに写る検出対象物の数や通信状態に応じて、最適な物体検出アルゴリズムを強化学習を用いて選択する
 <!--
 **sh1sh1gam1/sh1sh1gam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
