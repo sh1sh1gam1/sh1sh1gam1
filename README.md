@@ -2,8 +2,6 @@
 
 
 # Issei Komeda 👓
-# My repository
-- フェイクニュースチェック補助APP
 # 経歴
 - 近畿大学大学院 総合理工学研究科 エレクトロニクス系工学専攻
 # 保有資格
@@ -19,6 +17,8 @@
 - Java（3年）
 # 研究内容
 - 監視カメラに写る検出対象物の数や通信状態に応じて、最適な物体検出アルゴリズムを強化学習を用いて選択する
+# 成果物
+- フェイクニュースチェック補助APP
 <!--
 **sh1sh1gam1/sh1sh1gam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
