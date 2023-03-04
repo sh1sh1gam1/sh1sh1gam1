@@ -19,6 +19,7 @@
 - 監視カメラに写る検出対象物の数や通信状態に応じて、最適な物体検出アルゴリズムを強化学習を用いて選択する
 # 成果物
 - フェイクニュースチェック補助APP
+- 電車の線路内ケーブルの劣化予測LSTM
 <!--
 **sh1sh1gam1/sh1sh1gam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
